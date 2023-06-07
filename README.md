@@ -1,4 +1,5 @@
-# Project 15 Dance Landing Page
+# Responsive Website
+
 
 <br>
 <br>
